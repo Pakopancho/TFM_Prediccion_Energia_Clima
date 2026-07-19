@@ -1,0 +1,9 @@
+Neuronas,Dropout,Optimizador,MAE_Resultante_MW
+32,0.1,adam,1073.17
+32,0.1,rmsprop,987.18
+32,0.2,adam,1140.56
+32,0.2,rmsprop,1013.27
+50,0.1,adam,942.4
+50,0.1,rmsprop,948.75
+50,0.2,adam,950.82
+50,0.2,rmsprop,951.45

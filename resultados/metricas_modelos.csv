@@ -1,0 +1,5 @@
+Modelo,MAE (MW),RMSE (MW),MAPE (%)
+Baseline LR,485.26,737.62,1.72
+Baseline RF,302.33,518.86,1.05
+LSTM Univariante,515.58,738.42,1.78
+LSTM Multivariante,486.42,698.28,1.7
